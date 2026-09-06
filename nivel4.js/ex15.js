@@ -1,2 +1,2 @@
-const palavras  = ["O", "professor", "Eduardo", "é", "o", "melhor", "💖"];
+let palavras  = ["O", "professor", "Eduardo", "é", "o", "melhor", "💖"];
 console.log("Frase: ", palavras.join(" "));

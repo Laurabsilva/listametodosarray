@@ -1,2 +1,2 @@
-const bebidas = ["Cappuccino", "Milkshake", "Suco", "Refrigerante", "Água"]
+let bebidas = ["Cappuccino", "Milkshake", "Suco", "Refrigerante", "Água"]
 console.log("Bebidas: ", bebidas.join())

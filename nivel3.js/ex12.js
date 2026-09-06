@@ -1,4 +1,4 @@
-const animais = ["Cachorro", "Gato", "Cavalo"];
+let animais = ["Cachorro", "Gato", "Cavalo"];
 animais.splice(2,0, "Coelho", "Papagaio");
 console.log("Animais🐶");
 console.log(" ")
